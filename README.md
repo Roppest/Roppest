@@ -1,5 +1,5 @@
 ### Hi there, I'm Rodrigo 👋
-## I'm a developer whose interested in data analysis.
+## I'm a developer interested in data analysis.
 
 - 🔭 I'm currently working on a natural disaster risk calculator.
 - 🌱 I’m currently learning some Front-End skills (really not my strength).
